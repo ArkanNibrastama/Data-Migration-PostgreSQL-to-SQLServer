@@ -30,3 +30,6 @@ This project is to design, implement and execute an ETL pipeline using PySpark t
     url = f"jdbc:postgresql://{host}:5432/{db}?user={uid}&password={pwd}"
     ```
 - Finally, you can run the program on your local computer
+
+## Full explanation
+To make better understand of this repository, you can check my linkedin post about this project [Data Migration : PostgreSQL to SQL Server using PySpark](https://www.linkedin.com/feed/update/urn:li:activity:7016259090830024704/).
